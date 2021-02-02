@@ -1,5 +1,5 @@
 <h2> Hi, I'm Enrique!</h2>
-<p><em>Software Enginner at <a href="https://www.uaq.mx/">University Autonomus of Queretaro</a>
+<p><em>Software Enginner at <a href="https://www.uaq.mx/">Autonomous University of Queretaro</a>
 </br>Backend Enginner at <a href="https://weepec.com">Weepec</a>
 </em></p>
 
