@@ -20,7 +20,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Weepec Project**
-- ⚙️ I use daily: `.js`, `.prisma`, `.grahql`,
+- ⚙️ I use daily: `.js`, `.prisma`, `.grahql`, `.ts`, `.tsx`
 - 🌱 Learning all about **Docker**
 - 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-enriqueao96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enriqueao96@gmail.com)](mailto:enriqueao96@gmail.com)
 
