@@ -1,6 +1,6 @@
 ### Hi, I'm Enrique! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p><em>Software Enginner at <a href="https://www.uaq.mx/">Autonomous University of Queretaro</a>
+<p><em>Software Enginner
 </br>Backend Enginner at <a href="https://weepec.com">Weepec</a>
 </em></p>
 
